@@ -1,0 +1,2 @@
+# ghostwriter
+Ai ghostwriter
