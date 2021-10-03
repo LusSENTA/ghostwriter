@@ -1,5 +1,8 @@
 # ghostwriter
-AI ghostwriter is a nerual network trained in [textgenrnn](https://github.com/minimaxir/textgenrnn)
+AI ghostwriter is a nerual network trained in [textgenrnn](https://github.com/minimaxir/textgenrnn).
+To run use [textgenrnn](https://github.com/minimaxir/textgenrnn), a guide is avalible on their github.
+
+(Version 1 is trained with 15 epochs.)
 
 Trained with the songs:
 - [south africa - Baby Keem](https://www.youtube.com/watch?v=L6HGy5vpL9U)
